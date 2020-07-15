@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerEx</string>
+    <string name="home">Home</string>
+    <string name="Basics">Basics </string>
+    <string name="Investments">Investments</string>
+    <string name="Loans">Loans</string>
+</resources>
